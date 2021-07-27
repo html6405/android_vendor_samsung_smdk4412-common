@@ -29,7 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/bcmdhd_mfg.bin_b2:system/vendor/etc/wifi/bcmdhd_mfg.bin_b2 \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/bcmdhd_p2p.bin_b2:system/vendor/etc/wifi/bcmdhd_p2p.bin_b2 \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/bcmdhd_sta.bin_b2:system/vendor/etc/wifi/bcmdhd_sta.bin_b2 \
-    vendor/samsung/smdk4412-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/vendor/wifi/nvram_mfg.txt \
+    vendor/samsung/smdk4412-common/proprietary/etc/wifi/nvram_mfg.txt:system/vendor/etc/wifi/nvram_mfg.txt \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/nvram_mfg.txt_murata:system/vendor/etc/wifi/nvram_mfg.txt_murata \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/nvram_mfg.txt_semcosh:system/vendor/etc/wifi/nvram_mfg.txt_semcosh \
     vendor/samsung/smdk4412-common/proprietary/etc/wifi/nvram_net.txt:system/vendor/etc/wifi/nvram_net.txt \
